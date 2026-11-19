@@ -22,7 +22,7 @@
 
 ###
 
-<p data-importer="text" align="left">🌍 I'm from Giza, Egypt<br>🔭 Currently preparing for ITI Full-Stack track<br>📚 learning :( Nodejs)<br>🎯 Goal: work as a Full-Stack Developer<br>📫 Reach me at: eslamkhater34@gmail.com<br>🎲 Fun fact: Whatever I set my sights on, I make it happen🔥</p>
+<p data-importer="text" align="left">🌍 I'm from Giza, Egypt<br>🔭 Currently preparing for ITI Full-Stack track<br>📚 learning :( Nodejs)<br>🎯 Goal: work as a Full-Stack Developer<br>📫 <a href="./CV_Eslam_%20khater.pdf">Download my CV</a><br>🎲 Fun fact: Whatever I set my sights on, I make it happen🔥</p>
 
 ###
 
